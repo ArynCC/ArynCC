@@ -6,4 +6,4 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=fantuansyh&show_icons=true&theme=transparent)
  
-You are my ![Visitor Count](https://profile-counter.glitch.me/Aryn/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![Visitor Count](https://komarev.com/ghpvc/?username=ArynCC&color=green&style=flat-square)
